@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Title and description
-st.title("🔍 Fake Job Detector for Call Center/Scam Jobs")
+st.title(" Detector for Scam Jobs and Internships")
 st.markdown("Paste a job post below to analyze its legitimacy and identify potential red flags.")
 
 # Initialize session state for model and vectorizer
